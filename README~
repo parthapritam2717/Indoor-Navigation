@@ -1,0 +1,9 @@
+Indoor navigation project for visually impaired person using DEAD REACKONING technique and periodic
+recalibration suing already installed wifi access points .
+
+This project makes use of the accelerometer readings to detect when the step is taken and the uses 
+magnetometer reading to detect the heading of the user.
+
+The project map was designed based on Computer Science department Indian institute of Technology,Guwahati 
+ground floor map and we use voice commands to give direction to the user.
+
